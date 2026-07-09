@@ -24,7 +24,7 @@
 ## 📸 Dashboard Preview
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/GADEKAR328/Blood-Group-Analysis-Dashboard-PowER-BI/e487536b934eb782e03450438a9c72e0d074f793/Blood%20Group%20Analysis%20Dashboard.jpg" alt="Wadzire Village Blood Group Dashboard Preview" width="100%">
+  <img src="https://raw.githubusercontent.com/GADEKAR328/Blood-Group-Analysis-Dashboard-Power-BI/eb7eafb4c88c439f902887104f3e94f39484e859/Blood%20Group%20Analysis%20Dashboard.jpg" alt="Wadzire Village Blood Group Dashboard Preview" width="100%">
 </div>
 
 <div align="center">
